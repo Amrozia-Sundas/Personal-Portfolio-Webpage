@@ -2,3 +2,19 @@ body{
 	font-family: sans-serif;
 	background-color: orange;
 }
+#navbar{
+	width: 100%;
+	background: black;
+	overflow: hidden;
+	position: fixed;
+}
+#navbar a{
+	float: right;
+	margin: auto;
+	color: white;
+	text-align: center;
+	padding: 16px  20px;
+	text-decoration: none;
+	font-size: 18px;
+	transition: background .5s ease,color .5s ease;
+}
