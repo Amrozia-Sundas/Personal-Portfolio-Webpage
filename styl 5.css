@@ -18,3 +18,12 @@ body{
 	font-size: 18px;
 	transition: background .5s ease,color .5s ease;
 }
+#navbar a:hover{
+	background-color: orange;
+	color: black;
+}
+
+#navbar a:active{
+	background-color: orange;
+	color: black;
+}
