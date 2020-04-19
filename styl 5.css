@@ -63,3 +63,16 @@ h1{
             font-size: 25px;
             margin:20px;
         }
+        #contact-section{
+            height: 700px;
+        width: 100%;
+    text-align: center;
+    padding-top: 90px;
+        align-items: center;
+        background-color:orange;
+        color: orange;
+        align-items: italic;
+    }
+    h2:a{
+        text-decoration: none;
+    }
