@@ -37,3 +37,10 @@ h1{
         color:pink;
         text-align: center;
     }
+    #welcome-section{
+        height: 700px;
+        width: 100%;
+    text-align: center;
+    padding-top: 90px;
+        align-items: center;
+        background-color:orange;}
